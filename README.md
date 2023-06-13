@@ -11,6 +11,7 @@ As a prerequisite for this code, you need:
 pip install -r requirements.txt
 ```
 3. Download and Install Visual Studio Code
+4. Configure Pytest in Visual Studio Code
 
 ## Execution 
 In order to run this code, please run the command below in the project folder:
